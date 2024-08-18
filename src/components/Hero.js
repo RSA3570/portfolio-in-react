@@ -19,7 +19,7 @@ const Hero = () => {
       <div className="relative z-10 max-w-7xl mx-auto px-4 py-32 sm:px-6 lg:px-8">
         <div className="text-center">
           <h1 className="text-4xl font-extrabold sm:text-5xl md:text-6xl">
-            Hi, I'm <span className="text-yellow-400">[Your Name]</span>
+            Hi, I'm <span className="text-yellow-400">Roushan Kumar</span>
           </h1>
           <p className="mt-4 text-lg sm:text-xl md:text-2xl">
             A passionate React developer specializing in building interactive and dynamic web applications.

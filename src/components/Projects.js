@@ -1,24 +1,26 @@
-// src/components/Projects.js
 import React from 'react';
+import twitterTrendsImage from '../assets/images/twittertrends.jpg';
+import homeopathyImage from '../assets/images/homeopathyupchar.jpg';
+import afinancewapImage from '../assets/images/afinancewap.jpg';
 
 const projects = [
   {
-    title: 'Project One',
-    description: 'A brief description of Project One. Highlight its features, technology used, and what makes it special.',
-    link: 'https://github.com/yourusername/project-one',
-    image: 'https://via.placeholder.com/400x300',
+    title: 'Twitter Trends World',
+    description: 'A platform to visualize and analyze trending topics on Twitter using advanced data visualization techniques.',
+    link: 'https://github.com/yourusername/twitter-trends-world',
+    image: twitterTrendsImage,
   },
   {
-    title: 'Project Two',
-    description: 'A brief description of Project Two. Explain the key aspects and the problem it solves.',
-    link: 'https://github.com/yourusername/project-two',
-    image: 'https://via.placeholder.com/400x300',
+    title: 'Homeopathy Upchar',
+    description: 'A web application offering information on homeopathic treatments, symptoms, and remedies.',
+    link: 'https://github.com/yourusername/homeopathy-upchar',
+    image: homeopathyImage,
   },
   {
-    title: 'Project Three',
-    description: 'A brief description of Project Three. Mention any notable technologies or approaches used.',
-    link: 'https://github.com/yourusername/project-three',
-    image: 'https://via.placeholder.com/400x300',
+    title: 'aFinancewap',
+    description: 'A financial management tool with features like expense tracking, budget planning, and financial insights.',
+    link: 'https://github.com/yourusername/afinancewap',
+    image: afinancewapImage,
   },
 ];
 

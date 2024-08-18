@@ -93,15 +93,15 @@ const Contact = () => {
               <ul className="mt-6 space-y-4">
                 <li className="flex items-center text-gray-600">
                   <svg className="w-6 h-6 text-yellow-500 mr-3" fill="currentColor" viewBox="0 0 20 20"><path d="M1.293 5.293a1 1 0 011.414 0L10 11.586l7.293-6.293a1 1 0 111.414 1.414l-8 8a1 1 0 01-1.414 0l-8-8a1 1 0 010-1.414z"></path></svg>
-                  <span>123 Main St, Anytown, USA</span>
+                  <span>Road No. 23, Rajeev Nagar, Patna, BH 800024, India</span>
                 </li>
                 <li className="flex items-center text-gray-600">
                   <svg className="w-6 h-6 text-yellow-500 mr-3" fill="currentColor" viewBox="0 0 20 20"><path d="M4 8a4 4 0 118 0 4 4 0 01-8 0zm0 4a6 6 0 0012 0H4z"></path></svg>
-                  <span>your.email@example.com</span>
+                  <span>kr.roushan.info@gmail.com</span>
                 </li>
                 <li className="flex items-center text-gray-600">
                   <svg className="w-6 h-6 text-yellow-500 mr-3" fill="currentColor" viewBox="0 0 20 20"><path d="M1.293 5.293a1 1 0 011.414 0L10 11.586l7.293-6.293a1 1 0 111.414 1.414l-8 8a1 1 0 01-1.414 0l-8-8a1 1 0 010-1.414z"></path></svg>
-                  <span>+1 (123) 456-7890</span>
+                  <span>+91 (910) 231-8033</span>
                 </li>
               </ul>
             </div>

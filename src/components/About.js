@@ -8,7 +8,7 @@ const About = () => {
         <div className="text-center">
           <h2 className="text-3xl font-extrabold text-gray-900">About Me</h2>
           <p className="mt-4 text-lg text-gray-600">
-            Hello! I’m [Your Name], a passionate React developer with [X] years of experience in creating dynamic and responsive web applications. I have a strong background in modern JavaScript frameworks and a keen eye for detail in both design and functionality.
+            Hello! I’m Roushan Kumar, a passionate React developer with 4 years of experience in creating dynamic and responsive web applications. I have a strong background in modern JavaScript frameworks and a keen eye for detail in both design and functionality.
           </p>
         </div>
         <div className="mt-12 grid grid-cols-1 md:grid-cols-2 gap-8">

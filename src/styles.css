@@ -19,4 +19,23 @@ body {
     width: 100%;
     bottom: 0;
   }
+
+  /* src/components/ResumeButton.css */
+.resume-button-container {
+  position: fixed;
+  bottom: 1.2rem;
+  right: 1.2rem;
+}
+
+.resume-button {
+  cursor: pointer;
+}
+
+text {
+  font-size: 1rem;
+  font-weight: bold;
+  fill: black;
+}
+
+
   

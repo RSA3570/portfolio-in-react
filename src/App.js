@@ -5,6 +5,7 @@ import Contact from './components/Contact';
 import Footer from './components/Footer';
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';
+import ResumeButton from './components/ResumeButton';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
         <Contact />
       </main>
       <Footer />
+      {/* <ResumeButton /> */}
     </div>
   );
 }

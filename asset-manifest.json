@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portfolio-in-react/static/css/main.de21c465.css",
+    "main.js": "/portfolio-in-react/static/js/main.8dbae1b7.js",
+    "static/js/453.1407b060.chunk.js": "/portfolio-in-react/static/js/453.1407b060.chunk.js",
+    "static/media/react-developer-portfolio-yellow-room-coding.jpeg": "/portfolio-in-react/static/media/react-developer-portfolio-yellow-room-coding.253d7d9e96d474784dbf.jpeg",
+    "index.html": "/portfolio-in-react/index.html",
+    "main.de21c465.css.map": "/portfolio-in-react/static/css/main.de21c465.css.map",
+    "main.8dbae1b7.js.map": "/portfolio-in-react/static/js/main.8dbae1b7.js.map",
+    "453.1407b060.chunk.js.map": "/portfolio-in-react/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de21c465.css",
+    "static/js/main.8dbae1b7.js"
+  ]
+}
